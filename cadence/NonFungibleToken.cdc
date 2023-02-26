@@ -57,3 +57,4 @@ pub contract interface NonFungibleToken {
     }
 
 }
+ 
